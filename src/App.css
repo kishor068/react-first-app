@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.main_div~
+{
+  background-color: rgba(164, 197, 197, 0.652);
+}
+textarea
+{
+  background-color: rgba(135, 135, 152, 0.263);
+}

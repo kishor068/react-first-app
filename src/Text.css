@@ -1,0 +1,17 @@
+.set-text
+{
+    width: 80%;
+    height: 300px;
+}
+label
+{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    font-weight: lighter;
+    
+}
+label:hover
+{
+    /* background:linear-gradient(45deg,red,blue); */
+    font-weight: bolder;
+}
